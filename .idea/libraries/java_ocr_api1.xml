@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-ocr-api1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../java-ocr-api-master/out/artifacts/java_ocr_api_jar/java-ocr-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
